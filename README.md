@@ -6,7 +6,7 @@ Here are some useful links to recap and explore further:
 
 - Event details: [Meetup page](https://www.meetup.com/cpp_meetup_eindhoven/events/304202043/)
 - Presentation slides: [Download here](https://github.com/cppeindhoven/meetups/raw/refs/heads/main/2024-nov-27-tiobe/2024_nov_27_C++MeetUp_Presentation.pptx)
-- Event summary: Blog post on [nullptr.nl](https://nullptr.nl)
+- Event summary: Blog post on [nullptr.nl]([https://nullptr.nl](https://nullptr.nl/2024/11/c-meetup-eindhoven-november-2025-at-tiobe/))
 
 I truly enjoy learning and growing alongside the community, and sharing knowledge about C++ is a passion of mine. If you have any questions about the guidelines I presented or just want to chat about C++ in general, feel free to reach out! My email is included in the Meetup event email you received.
 
